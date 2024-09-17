@@ -1,0 +1,44 @@
+世界,#genre#
+互动英语,http://37.27.111.214:8080/live/54/hls.m3u8
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻,https://test.zapi.us.kg/?id=ebc-news
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC News,https://test.zapi.us.kg/?id=bbc-world-news
+BBC Earth,https://test.zapi.us.kg/?id=bbcearth
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://test.zapi.us.kg/?id=channelnewsasia
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+CNN,https://test.zapi.us.kg/?id=cnn-international
+CNN CA,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CBS News New York,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+CBS News Texas,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+CNBC,https://test.zapi.us.kg/?id=cnbc
+CGTN English,https://0472.org/hls/cgtn.m3u8
+CGTN English,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
+CGTN Documentary,https://0472.org/hls/cgtnd.m3u8
+CGTN Documentary,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
+DW News,http://37.27.111.214:8080/live/46/hls.m3u8
+DW News,https://test.zapi.us.kg/?id=dw
+FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+Bloomberg,http://37.27.111.214:8080/live/34/hls.m3u8
+KBS World,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://test.zapi.us.kg/?id=kbsworld
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Arirang,http://37.27.111.214:8080/live/52/hls.m3u8
+Arirang,https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+National Geographic Wild,http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+Love nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love nature 4K,http://37.27.111.214:8080/live/84/hls.m3u8
+The Pet Club,https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+The Pet Club,https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
